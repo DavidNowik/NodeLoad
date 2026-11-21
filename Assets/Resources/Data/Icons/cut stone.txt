@@ -1,0 +1,22 @@
+# cut stone: a squared block with bevelled edges
+o=#262b36
+h=#e6ecf5
+l=#c4ccda
+m=#98a3b8
+d=#6a7489
+................
+................
+.oooooooooooooo.
+.ohhhhhhhhhhhho.
+.ohllllllllllmo.
+.ohllllllllllmo.
+.ohllllllllllmo.
+.ohllllllllllmo.
+.ohllllllllllmo.
+.ohmmmmmmmmmmmo.
+.oddddddddddddo.
+.oooooooooooooo.
+................
+................
+................
+................

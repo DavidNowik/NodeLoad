@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 76ed7022d2671334e9c2ad48b4bb3f18, type: 3}
+  m_Name: Level 05
+  m_EditorClassIdentifier: 
+  goals:
+  - item: {fileID: 11400000, guid: 992a4c2bf78a2234293d1ac4f25ecfad, type: 2}
+    amount: 5000
+  timeLimit: 0
+  clockAtStart: 0
+  openRings: 3.5
+  spawnGap: 3
+  unlocksEdges: []
+  spawns:
+  - tile: {fileID: 11400000, guid: 1a8be8d14f8fce2458216a2587c537b5, type: 2}
+    count: 1
+    hidden: 0
+    lockedRing: 0
+  - tile: {fileID: 11400000, guid: 22318707be28cfd4fbbf9e2054d0c675, type: 2}
+    count: 1
+    hidden: 0
+    lockedRing: 0
+  - tile: {fileID: 11400000, guid: 4e8a8b6dc29b84443877699aeffd408b, type: 2}
+    count: 1
+    hidden: 0
+    lockedRing: 0

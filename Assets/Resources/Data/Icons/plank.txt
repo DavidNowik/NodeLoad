@@ -1,0 +1,21 @@
+# plank: a stack of three boards
+o=#3a2414
+d=#a8703a
+m=#d99a52
+l=#efc07a
+................
+................
+.oooooooooooooo.
+.ollllllllllllo.
+.ommmdmmmmmdmmo.
+.oooooooooooooo.
+oooooooooooooo..
+ollllllllllllo..
+ommdmmmmmdmmmo..
+oooooooooooooo..
+..oooooooooooooo
+..ollllllllllllo
+..omdmmmmmdmmmmo
+..oooooooooooooo
+................
+................

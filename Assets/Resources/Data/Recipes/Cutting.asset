@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2d63c0d3eb287804587a61957146a30d, type: 3}
+  m_Name: Cutting
+  m_EditorClassIdentifier: 
+  inputs:
+  - item: {fileID: 11400000, guid: 9bc8ac4a229f42d4fb0ada6c2dfc83db, type: 2}
+    count: 2
+  output: {fileID: 11400000, guid: fa48273f40b8ceb488e075faf79d23d5, type: 2}
+  time: 1.5
+  verb: Cutting
